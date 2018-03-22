@@ -38,8 +38,12 @@ We do need a huge squad overhaul. The only players good enough for me are:
     <li>Degea</li> 
     <li>Lingard(the fact that he scores important goals)</li>
     <li>Bailey</li>
-    <li>Pogba(he needs to play maturely)</li>
-    <li>And Perhaps Martial</li>
+    <li>Pogba (he needs to play maturely)</li>
+    <li>Lukaku (he needs to improve against tougher oppositions)</li>
+    <li>Antonio Valencia (Hard Working)</li>
+    <li>Anthony Martial</li>
+    <li>Scott McTominay</li>
+    <li>Andreas Pereira</li>
  </ul>
 
 Rest of the squad is simply there for the money and they are happy with it. Some of them do work hard but they would never going to be world class. And We need world Class players to play attractive football.
