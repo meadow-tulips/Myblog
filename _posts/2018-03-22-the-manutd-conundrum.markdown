@@ -4,9 +4,8 @@ title:  "The Manutd Conundrum"
 categories: Football
 ---
 
-<p> This is spartan </p>
 
-Manutd are in disarray after their recent debacle against Sevilla. But did not you see this coming?
+<p style="color:violet"> Manutd looks in disarray after their recent debacle against Sevilla. But did not you see this coming? </p>
 
 After all, We have a team with an Attacking Midfielder (**Antonio Valencia**) converted into full back. 
 We got a midfield consisting on **Marouane Fellaini** with absolute no accerleration and no off the ball movement.
