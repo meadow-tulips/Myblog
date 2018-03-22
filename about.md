@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 
-Computer Science Engineer(merely a graduate), blogger, coder, aethist, laconic, rational.
+Computer Science Engineer(merely a graduate)| Blogger | Coder | Aethist | Laconic | Rational | Outspoken
+
 
 
