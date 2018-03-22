@@ -23,6 +23,7 @@ url: "http://meadow.tulips.github.io" # the base hostname & protocol for your si
 github_username:  meadow.tulips
 linkedin_username: avan.sharma
 author: Avan Sharma
+disqus.shortname: meadow-tulips
 # Build settings
 
 markdown: kramdown
