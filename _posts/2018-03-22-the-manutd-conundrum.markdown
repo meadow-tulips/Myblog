@@ -9,7 +9,7 @@ categories: Football
 
 <p>After all, We have a team with Attacking Midfielders (<b>Antonio Valencia</b> & <b>Ashley Young</b>) converted into full-backs. We got a midfield consisting on <b>Marouane Fellaini</b> with absolu<u>te no acce</u>rleration and no of<u>f the ba</u>ll movement. Our Winger <b>Juan Mata</b> just does not have the pace to run down the flanks. Our <b>Anthony martial</b> is too predictable, the fact that he choose the selfish option of cutting inside and taking the shot on. 
 </p>    
-> Ps: He may have curled some beautiful goals from outside the box but only against weaker oppositions and average defenders. World Class defenders would never let him get a sniff of goal the moment he comes inside.
+> He may have curled some beautiful goals from outside the box but only against weaker oppositions and average defenders. World Class defenders would never let him get a sniff of goal the moment he comes inside.
 
 
 <p>Then we arrive at our Strikers . <b>Lukaku</b> does score goals, but misses a lot too and so does <b>rashford</b>. Also, <b>lukaku</b> does have a poor record against big teams. 
