@@ -2,7 +2,6 @@
 layout: page
 title: Author
 permalink: /author/
-author: Avan
 ---
 
 
@@ -14,7 +13,7 @@ About the blog: This is personal blog.
 
 {{ site.author }}
 
-{{ page.author }}
+#{{ page.author }}
 
 
 
