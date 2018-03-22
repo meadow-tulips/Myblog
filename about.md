@@ -16,7 +16,7 @@ Have a nice day.
    
 # About the Blog 
 
-**{{ site.title }}** *is a personal general category blog*.
+**{{ site.title }}** *is a general purpose blog*.
 
 
 
