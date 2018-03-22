@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Author
+title: Avan Sharma
 permalink: /author/
 ---
 
