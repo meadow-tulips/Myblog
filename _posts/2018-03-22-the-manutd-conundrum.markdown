@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Manutd Conundrum"
+permalink: /theutdconundrum/
 categories: Football
 ---
 
