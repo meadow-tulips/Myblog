@@ -1,14 +1,12 @@
 ---
-layout: page
+layout: authors-page
 title: Author
 permalink: /author/
 author: Avan Sharma
 ---
 
 
-# {{ site.author }}
-
-Avan Sharma is a Computer Science Engineer(merely a graduate),  Blogger,  Coder,  Aethist, Laconic,  Rational, Outspoken..
+           is a Computer Science Engineer(merely a graduate),  Blogger,  Coder,  Aethist, Laconic,  Rational, Outspoken..
 
 About the blog: This is personal blog.
 
