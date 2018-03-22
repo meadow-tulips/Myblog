@@ -31,17 +31,18 @@ Defenders cannot pass the ball from the back.
 
 There is no sheilding defensive midfielder, no impetus like YAYA TOURE in his prime, like Casemiro right now in Real Madrid.
 Matic only plays with his left foot. Isn't naturally quick. But has settled fine. 
-
-We do need a huge squad overhaul.
-The only players good enough for this squad are :
-*Degea 
-*Lingard(the fact that he scores important goals)
-*Bailey,
-*Pogba(he needs to play maturely) 
-*Perhaps Martial.
+<p>
+We do need a huge squad overhaul. The only players good enough for me would be :
+<ul>
+    <li>Degea 
+    <li>Lingard(the fact that he scores important goals)
+    <li>Bailey,
+    <li>Pogba(he needs to play maturely) 
+    <li>Perhaps Martial.
+ </ul>
 
 Rest squad is just not good enough.
-
+</p>
 Honestly it was tough watching Manutd play. Mourinho has a reputation of throwing lot of cash. He is not known to create attacking minded team. His play does not involve one touch.
 More like park the bus and attack on counters. 
 
