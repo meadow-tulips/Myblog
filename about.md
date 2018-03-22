@@ -16,7 +16,7 @@ Have a nice day.
    
 # About the Blog 
 
-*This is personal blog*.
+**Relfections** *is a personal general category blog*.
 
 
 
