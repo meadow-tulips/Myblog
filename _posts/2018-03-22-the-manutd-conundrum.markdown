@@ -2,6 +2,7 @@
 layout: post
 title:  "The Manutd Conundrum"
 permalink: /theutdconundrum/
+comments: true
 categories: Football
 ---
 
