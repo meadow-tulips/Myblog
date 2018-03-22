@@ -5,9 +5,9 @@ categories: Football
 ---
 
 
-<p style="color:violet"> Manutd looks in disarray after their recent debacle against Sevilla. But did not you see this coming? </p>
+## Debacle against Sevilla. But tell me, did not you see this coming? 
 
-<p>After all, We have a team with an Attacking Midfielders (<b>Antonio Valencia</b> & <b>Ashley Young</b>) converted into full-backs. We got a midfield consisting on <b>Marouane Fellaini</b> with absolu<u>te no acce</u>rleration and no off the ball movement. Our Winger <b>Juan Mata</b> does not want to run down the flanks. Our <b>Anthony martial</b> is too predictable, the fact he choose the selfish option of cutting inside and taking the shot on. He may have scored some good goals from outside the box but only against weaker oppositions and average defenders. World Class defender would not let him do that.
+<p>After all, We have a team with Attacking Midfielders (<b>Antonio Valencia</b> & <b>Ashley Young</b>) converted into full-backs. We got a midfield consisting on <b>Marouane Fellaini</b> with absolu<u>te no acce</u>rleration and no of<u>f the ba</u>ll movement. Our Winger <b>Juan Mata</b> just does not have the pace to run down the flanks. Our <b>Anthony martial</b> is too predictable, the fact he choose the selfish option of cutting inside and taking the shot on. He may have scored some good goals from outside the box but only against weaker oppositions and average defenders. World Class defender would not let him do that.
 </p>
 
 <p>Then we arrive at our Strikers . <b>Lukaku</b> does score goals, but misses a lot too and so does <b>rashford</b>. Also, <b>lukaku</b> do have a poor record against big teams. 
