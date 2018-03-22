@@ -33,7 +33,13 @@ There is no sheilding defensive midfielder, no impetus like YAYA TOURE in his pr
 Matic only plays with his left foot. Isn't naturally quick. But has settled fine. 
 
 We do need a huge squad overhaul.
-The only players good enough for this squad are : **Degea**, **Lingard**(the fact that he scores important goals), **Bailey**, **Pogba**(he needs to play maturely), perhaps **Martial**.
+The only players good enough for this squad are :
+*Degea 
+*Lingard(the fact that he scores important goals)
+*Bailey,
+*Pogba(he needs to play maturely) 
+*Perhaps Martial.
+
 Rest squad is just not good enough.
 
 Honestly it was tough watching Manutd play. Mourinho has a reputation of throwing lot of cash. He is not known to create attacking minded team. His play does not involve one touch.
