@@ -2,6 +2,7 @@
 layout: page
 title: Author
 permalink: /author/
+author: Avan Sharma
 ---
 
 
