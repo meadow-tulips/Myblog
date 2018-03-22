@@ -12,7 +12,7 @@ Avan Sharma is a Computer Science Engineer(merely a graduate),  Blogger,  Coder,
 
 About the blog: This is personal blog.
 
-author
+
 
 
 
