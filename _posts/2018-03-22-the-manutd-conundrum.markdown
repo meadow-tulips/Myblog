@@ -7,9 +7,7 @@ categories: Football
 
 <p style="color:violet"> Manutd looks in disarray after their recent debacle against Sevilla. But did not you see this coming? </p>
 
-<p>After all, We have a team with an Attacking Midfielder (**Antonio Valencia**) converted into full back. 
-We got a midfield consisting on **Marouane Fellaini** with absolute no accerleration and no off the ball movement.
-Our Winger **Juan Mata** does not want to run down the flanks. Our **Anthony martial** is too predictable, the fact he choose the selfish option of cutting inside and taking the shot on. He may have scored some good goals from outside the box but only against weaker oppositions and average defenders. World Class defender would not let him do that.
+<p>After all, We have a team with an Attacking Midfielders (<b>Antonio Valencia</b> & <b>Ashley Young</b>) converted into full-backs. We got a midfield consisting on <b>Marouane Fellaini</b> with absolu<u>te no acce</u>rleration and no off the ball movement. Our Winger <b>Juan Mata</b> does not want to run down the flanks. Our <b>Anthony martial</b> is too predictable, the fact he choose the selfish option of cutting inside and taking the shot on. He may have scored some good goals from outside the box but only against weaker oppositions and average defenders. World Class defender would not let him do that.
 </p>
 
 <p>Then we arrive at our Strikers . **Lukaku** does score goals, but misses a lot too and so does rashford. Also, lukaku do have a poor record against big teams. 
