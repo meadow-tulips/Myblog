@@ -2,7 +2,7 @@
 layout: page
 title: Author
 permalink: /author/
-author: Avan Sharma
+author: Avan
 ---
 
 
@@ -13,6 +13,8 @@ Avan Sharma is a Computer Science Engineer(merely a graduate),  Blogger,  Coder,
 About the blog: This is personal blog.
 
 {{ site.author }}
+
+{{ page.author }}
 
 
 
