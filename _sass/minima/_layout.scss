@@ -255,9 +255,10 @@
 
 // User Defined CSS
 
-.authorfirstline::first-line 
+.authorfirstline
 {
-  padding: 12px 30px;
+  padding-top:12px;
+  text-indent:30px
 }
 
 
