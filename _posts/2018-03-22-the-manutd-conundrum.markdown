@@ -7,22 +7,25 @@ categories: Football
 
 <p style="color:violet"> Manutd looks in disarray after their recent debacle against Sevilla. But did not you see this coming? </p>
 
-After all, We have a team with an Attacking Midfielder (**Antonio Valencia**) converted into full back. 
+<p>After all, We have a team with an Attacking Midfielder (**Antonio Valencia**) converted into full back. 
 We got a midfield consisting on **Marouane Fellaini** with absolute no accerleration and no off the ball movement.
 Our Winger **Juan Mata** does not want to run down the flanks. Our **Anthony martial** is too predictable, the fact he choose the selfish option of cutting inside and taking the shot on. He may have scored some good goals from outside the box but only against weaker oppositions and average defenders. World Class defender would not let him do that.
+</p>
 
-Then we arrive at our Strikers . **Lukaku** does score goals, but misses a lot too and so does rashford. Also, lukaku do have a poor record against big teams. 
+<p>Then we arrive at our Strikers . **Lukaku** does score goals, but misses a lot too and so does rashford. Also, lukaku do have a poor record against big teams. 
+</p>  
 
-**Luke Shaw ? Matteo Damian ?** are nowhere near Manutd quality. They barely make overlapping runs. 
+<p> **Luke Shaw ? Matteo Damian ?** are nowhere near Manutd quality. They barely make overlapping runs. 
 We need our Jordi Alba, our David Alba 
 Our full-backs will never be able to fill the voids of Patrice Evra or Heinze or Neville . 
-
+</p>
+<p>
 And Our Cute defenders just don't know how to pass the ball from the back. All Manutd do nowdays, is to kick the ball upto Lukaku, Pogba, Zlatan or Fellaini. ? 
 This is how Mourinho lines up his squad. Is this the *football Heritable* this guy was talking about. And he is questioning the old trafford atmosphere. 
-
+</p>
 **Well to be honest, it's filthy to watch Manutd Play now days. Barely a shadow of what they used to be**.
 
-Overall Conclusion: 
+The Conclusion: 
 
 Midfielders are too slow . 
 Attackers are too arrogant and too slow to make runs & off the ball movements.
