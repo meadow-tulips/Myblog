@@ -25,24 +25,25 @@ This is how Mourinho lines up his squad. Is this the *football Heritable* this g
 
 The Conclusion: 
 
-Midfielders are too slow . 
-Attackers are too arrogant and too slow to make runs & off the ball movements.
-Defenders cannot pass the ball from the back. 
+> Midfielders are too slow . 
+> Attackers are too arrogant and too slow to make runs & off the ball movements.
+> Defenders cannot pass the ball from the back. 
 
 There is no sheilding defensive midfielder, no impetus like YAYA TOURE in his prime, like Casemiro right now in Real Madrid.
 Matic only plays with his left foot. Isn't naturally quick. But has settled fine. 
 <p>
 We do need a huge squad overhaul. The only players good enough for me would be :
 <ul>
-    <li>Degea 
-    <li>Lingard(the fact that he scores important goals)
-    <li>Bailey,
-    <li>Pogba(he needs to play maturely) 
-    <li>Perhaps Martial.
+    <li>Degea</li> 
+    <li>Lingard(the fact that he scores important goals)</li>
+    <li>Bailey</li>
+    <li>Pogba(he needs to play maturely)</li>
+    <li>And Perhaps Martial</li>
  </ul>
 
 Rest squad is just not good enough.
 </p>
+
 Honestly it was tough watching Manutd play. Mourinho has a reputation of throwing lot of cash. He is not known to create attacking minded team. His play does not involve one touch.
 More like park the bus and attack on counters. 
 
