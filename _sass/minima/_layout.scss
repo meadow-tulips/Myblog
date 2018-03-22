@@ -253,10 +253,10 @@
   }
 }
 
+// User Defined CSS
 
-.authorfirstline
-{
-  padding: 16px 30px;
+.authorfirstline::first-line {
+  padding: 12px 30px;
 }
 
 
