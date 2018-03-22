@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Author
+permalink: /author/
 ---
 
 
-Computer Science Engineer(merely a graduate),  Blogger,  Coder,  Aethist, Laconic,  Rational, Outspoken
+
+
+Avan Sharma is a Computer Science Engineer(merely a graduate),  Blogger,  Coder,  Aethist, Laconic,  Rational, Outspoken..
+
+About the blog: This is personal blog.
 
 
 
