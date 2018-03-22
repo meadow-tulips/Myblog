@@ -13,12 +13,13 @@ categories: Football
 <p>Then we arrive at our Strikers . <b>Lukaku</b> does score goals, but misses a lot too and so does <b>rashford</b>. Also, <b>lukaku</b> do have a poor record against big teams. 
 </p>  
 
-<p> <b>Luke Shaw</b> ? <b>Matteo Damian</b> ? are nowhere near Manutd quality. They barely make overlapping runs. We need our <i>Jordi Alba</i>, our <i>David Alba</i> .Our full-backs today will never be able to fill the voids of <i>Patrice Evra or Heinze or Neville</i> . 
+<p> <b>Luke Shaw</b> ? <b>Matteo Damian</b> ? are nowhere near Manutd quality. They barely make overlapping runs. We need our <i>Jordi Alba</i>, our <i>David Alba</i> .Our full-backs today will never be able to fill the voids of Patrice Evra or Heinze or Neville. 
 </p>
 <p>
 And Our Cute defenders just don't know how to pass the ball from the back. All Manutd do nowdays, is to kick a long ball to Lukaku, Pogba or Fellaini. ? This is how Mourinho lines up his squad. Is this the *football Heritable* this guy was talking about. And he is questioning the old trafford atmosphere. 
 </p>
->> Well, to be honest it's filthy to watch Manutd Play now days. Barely a shadow of what they used to be.
+
+> Well, to be honest it's filthy to watch Manutd Play now days. Barely a shadow of what they used to be.
 
 
 ### The Conclusion: 
