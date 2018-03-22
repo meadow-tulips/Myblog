@@ -5,7 +5,7 @@ permalink: /author/
 ---
 
 
-
+# {{ site.author }}
 
 Avan Sharma is a Computer Science Engineer(merely a graduate),  Blogger,  Coder,  Aethist, Laconic,  Rational, Outspoken..
 
@@ -13,10 +13,7 @@ About the blog: This is personal blog.
 
 {{ site.author }}
 
-#{{ page.author }}
 
-#My main heading
-{: .intro }
 
 This is my initial paragraph. In it I’d like to provide a link to the [Jekyll homepage](http://jekyllrb.com/ "Jekyll"). I want to add **bold** and *italic* formatting to text as well using the `strong` and `emphasis` tags.
 
