@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Manutd Conundrum"
+title:  "Manutd - Fall from grace"
 permalink: /theutdconundrum/
 comments: true
 categories: Football
