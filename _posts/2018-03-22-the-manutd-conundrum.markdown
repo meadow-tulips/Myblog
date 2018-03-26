@@ -7,7 +7,7 @@ categories: Football
 ---
 
 
-## Debacle against Sevilla. But tell me, didn't you see that coming? 
+## Debacle against Sevilla. Didn't you see that coming? 
 
 <p>After all, We have a team with Attacking Midfielders (<b>Antonio Valencia</b> & <b>Ashley Young</b>) converted into full-backs. We got a midfield consisting on <b>Marouane Fellaini</b> with absolu<u>te no acce</u>rleration and no of<u>f the ba</u>ll movement. Our Winger <b>Juan Mata</b> just does not have the pace to run down the flanks. Our <b>Anthony martial</b> is too predictable, the fact that he choose the selfish option of cutting inside and taking the shot on. 
 </p>    
