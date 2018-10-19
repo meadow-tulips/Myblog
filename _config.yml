@@ -27,7 +27,7 @@ disqus.shortname: meadow-tulips
 # Build settings
 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 #remote_theme:: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
